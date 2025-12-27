@@ -62,4 +62,5 @@ jobs:
           app-name: 'midterm-api'
           slot-name: 'Production'
           package: .
+
           
